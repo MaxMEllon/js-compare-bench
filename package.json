@@ -1,0 +1,15 @@
+{
+  "name": "js-compare-bench",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/MaxMEllon/js-compare-bench.git",
+  "author": "MaxMEllon <maxmellon1994@gmail.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "benchmark": "^2.1.2",
+    "browserify": "^13.1.1",
+    "deep-equal": "^1.0.1",
+    "immutable": "^3.8.1",
+    "lodash": "^4.17.2"
+  }
+}
